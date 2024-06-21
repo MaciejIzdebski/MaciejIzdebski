@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaciejIzdebski
-- 👀 I’m interested in Computer Systems
-- 🌱 I’m currently learning nuxt.js, x64 assembler, spring boot
+- 👀 I’m interested in Computer Systems and Automation
+- 🌱 I’m currently learning Ansible, terraform, kubernetes
 - 📫 You can reach me via [my Linkedin page](https://www.linkedin.com/in/maciek-izdebski-0baba0210/ "My Linkedin")
 
 <!---
